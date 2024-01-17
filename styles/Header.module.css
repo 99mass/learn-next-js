@@ -1,0 +1,18 @@
+.menu{
+  width: 100%;
+  background-color: rgb(230, 226, 226);
+  list-style-type: none;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+
+}
+
+.menu li a{
+  text-decoration: none;
+  color: black;
+  font-weight: 700;
+  display: inline-block;
+  padding:  30px 6px;
+}
