@@ -3,3 +3,13 @@
   height: 100px;
   background-color: blue;
 }
+._form{
+  position: absolute;
+  top: 5%;
+  left: 50%;
+  transform: translate(-50%,50%);
+}
+._form *{
+  display: block;
+  margin-bottom: 10px;
+}
